@@ -1,7 +1,7 @@
 <div align="center">
-
-# 100seohyeon
-
+  
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=100seohyeon&fontSize=30)
+  
 **📮[Email](mailto:deepgreen7362@gmail.com)** |
 **[Linkedin](www.linkedin.com/in/seohyeon-baek)** 
 </br>
@@ -9,6 +9,7 @@
 
 ## Skills
 **🎨️ Design & 🔨Language**</br>
+</br>
 <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=flat-square&logo=Adobe Photoshop&logoColor=white"/> <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=Figma&logoColor=white"/> <img src="https://img.shields.io/badge/Sketch-F7B500?style=flat-square&logo=Sketch&logoColor=white"/>
 </br>
 <img src="https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=Swift&logoColor=white"/> <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/> <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/> <img src="https://img.shields.io/badge/jquery-0769AD?style=flat-square&logo=jquery&logoColor=white">
