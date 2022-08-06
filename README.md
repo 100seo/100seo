@@ -3,7 +3,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=100seohyeon&fontSize=30)
   
 **📮[Email](mailto:deepgreen7362@gmail.com)** |
-**[Linkedin](www.linkedin.com/in/seohyeon-baek)** 
+**[Linkedin](https://www.linkedin.com/in/seohyeon-baek/)** 
 </br>
 **Apple Developer Academy @ POSTECH Junior Learner "Louie" <sub><sup>2020.3~</sup></sub>**
 
